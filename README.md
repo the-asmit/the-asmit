@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Asmit
 
-Welcome to my GitHub! I'm **Asmit**, an AI enthusiast exploring **Generative AI, Agentic AI, C++, and Python**. I enjoy building projects that **solve real-world problems with AI**.
+Welcome to my GitHub! I'm **Asmit**, an AI enthusiast exploring **Generative AI, Agentic AI, LLMs, C++, and Python**. I enjoy building projects that **solve real-world problems with AI**.
 
 ---
 
