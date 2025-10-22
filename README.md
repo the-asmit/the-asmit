@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm **Asmit**, an AI enthusiast exploring **Generative AI,
 ## 🚀 About Me
 
 - 🔭 Currently building **AI agents, generative AI tools, and RAG systems**  
-- 🌱 Learning **Advanced LLM Workflows, OpenAI API, and Agentic AI pipelines**  
+- 🌱 Learning **Advanced LLM Workflows, AI Orchestration, and Agentic AI pipelines**  
 - 💬 Ask me about **C++, Python, AI, LLMs, and AI agents**
 
 ---
